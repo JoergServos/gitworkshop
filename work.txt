@@ -1,3 +1,3 @@
 test test est
 
-This is for a GIT WORKFLOW WOKSHOW
+This is for a GIT WORKFLOW WOKSHOP
